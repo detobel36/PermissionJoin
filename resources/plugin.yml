@@ -1,0 +1,6 @@
+name: ${name}
+main: ${mainClass}
+version: ${version}
+author: ${author}
+description: Plugin PermissionJoin
+website: http://twitter.com/Detobel36
